@@ -1,0 +1,10 @@
+#snake {
+	box-shadow: -1px -1px 0 #ccc inset;
+	margin: 100px auto 0;
+}
+.cell {
+	box-shadow: 1px 1px 0 #ccc inset;
+	width: 10px;
+	height: 10px;
+	float: left;
+}
